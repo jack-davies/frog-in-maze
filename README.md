@@ -1,2 +1,2 @@
 # Frog in Maze Challenge
-Solution is computed using the [fundamental matrix](https://en.wikipedia.org/wiki/Absorbing_Markov_chain#Fundamental_matrix) of the absorbing markov chain representation of the maze.
+Solution to the HackerRank [frog in maze challenge](https://www.hackerrank.com/challenges/frog-in-maze/) computed using the [fundamental matrix](https://en.wikipedia.org/wiki/Absorbing_Markov_chain#Fundamental_matrix) of the absorbing markov chain representation of the maze.
